@@ -4,7 +4,11 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is a basic To-do application
+
+Made with Firebase databse and google sign in authentication.
+
+I have attached the source code in this With all the necessary Lib files and Assets associated.
 
 A few resources to get you started if this is your first Flutter project:
 
